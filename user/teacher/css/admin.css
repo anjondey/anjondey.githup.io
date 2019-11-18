@@ -1,0 +1,62 @@
+
+.header
+{
+  text-align: center;
+  background-color: green;
+  color: white;
+  padding: 5px;
+}
+.logintext
+{
+  text-align: center;
+}
+.hrline
+{
+	width: 300px;
+	color: #F6385E;
+	border-width: 3px;
+	border-style:inset;
+	margin-top:-5px;
+}
+.form
+{
+  border: 1px inherit black;
+  margin-top: 20px;
+
+  background: #779394;
+  opacity: .9;
+  border-radius: 5%;
+
+}
+.navbar
+{
+
+	font-weight: bold;
+	font-size: 13px;
+
+}
+#mynavbar
+{
+	 background: #2E359D;
+}
+ #mynavbar ul li a
+{
+
+	padding: 5px;
+	color: white;
+	opacity: .8;
+	margin: 5px;
+	color: #10F9E8;
+
+
+}
+#mynavbar ul li a:hover
+{
+	background: #407568;
+	margin: 5px;
+	color: #FF7A2C;
+	opacity: 1;
+	padding: 5px;
+	border-radius: 5px;
+
+}

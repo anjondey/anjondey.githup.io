@@ -1,0 +1,30 @@
+
+.header
+{
+  text-align: center;
+  background-color: green;
+  color: white;
+  padding: 5px;
+}
+.logintext
+{
+  text-align: center;
+}
+.hrline
+{
+	width: 300px;
+	color: #F6385E;
+	border-width: 3px;
+	border-style:inset;
+	margin-top:-5px;
+}
+.form
+{
+  border: 1px inherit black;
+  margin-top: 20px;
+
+  background: #779394;
+  opacity: .9;
+  border-radius: 5%;
+
+}
